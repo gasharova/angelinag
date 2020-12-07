@@ -1,4 +1,6 @@
 ### Hi there 👋
+Im Angelina, an MLH fellow in Fall 2020.
+Feel free to reach out to me for anything!~
 
 <!--
 **angelinag/angelinag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
