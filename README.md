@@ -1,6 +1,6 @@
 ### Hi there 👋
 Im Angelina, a Junior Developer.  
-:star: MLH fellow 2020-2021
+:star: MLH fellow 2020-2021  
 :star: Currently 3rd year Bachelors degree in Software Engineering.  
 :star: Professional diploma in System programming  
 Feel free to reach out to me for anything!~
