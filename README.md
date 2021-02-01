@@ -7,6 +7,8 @@ Feel free to reach out to me for anything!~
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=angelinag&show_icons=true&count_private=true&theme=synthwave)
 
+<img src="https://profile-counter.glitch.me/angelinag/count.svg" alt="hit counter" align="center">
+
 <!--
 **angelinag/angelinag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
