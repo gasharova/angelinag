@@ -5,6 +5,8 @@ Im Angelina, a Junior Developer.
 :star: Professional diploma in System programming  
 Feel free to reach out to me for anything!~
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=angelinag&show_icons=true)
+
 <!--
 **angelinag/angelinag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
