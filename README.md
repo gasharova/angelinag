@@ -21,4 +21,4 @@ Feel free to reach out to me for anything!~
 
 
 
-<img src="https://img.shields.io/badge/%20-%20-brightgreen?style=flat&logo=angular&logoColor=brightgreen" width="20vw"><img src="https://profile-counter.glitch.me/angelinag/count.svg" width="200vw">
+<img src="https://img.shields.io/badge/%20-%20-brightgreen?style=flat&logo=github&logoColor=black" width="38vw"><img src="https://img.shields.io/badge/%20-%20-brightgreen?style=flat&logo=github&logoColor=black" width="38vw"><img src="https://img.shields.io/badge/%20-%20-brightgreen?style=flat&logo=github&logoColor=black" width="38vw"><img src="https://profile-counter.glitch.me/angelinag/count.svg" width="200vw"><img src="https://img.shields.io/badge/%20-%20-brightgreen?style=flat&logo=github&logoColor=black" width="38vw"><img src="https://img.shields.io/badge/%20-%20-brightgreen?style=flat&logo=github&logoColor=black" width="38vw"><img src="https://img.shields.io/badge/%20-%20-brightgreen?style=flat&logo=github&logoColor=black" width="38vw">
