@@ -15,10 +15,12 @@
 
 ### Hi there 👋
 Im Angelina.  
-:books: Currently 3rd year Bachelors degree in Software Engineering.  
-:scroll: Professional diploma in System programming  
+:books: Currently 3rd year Bachelors degree in Software Engineering '22
 :large_blue_diamond: MLH Fellow '20-'21  
+:scroll: Professional degree in System programming  '18
 :triangular_flag_on_post: CTF participant  
+:rewind: Previous experience with C++, PHP, .NET  
+:mag_right: Current focus on Python  
 Feel free to reach out to me for anything!~
 
 
