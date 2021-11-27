@@ -24,7 +24,7 @@ Im Angelina.
 Feel free to reach out to me for anything!~
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelinag&show_icons=true&count_private=true&theme=synthwave" width="550"/><img align="center" width="248" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelinag&theme=synthwave" /> <br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelinag&show_icons=true&count_private=true&theme=synthwave" width="560"/><img align="center" width="248" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelinag&theme=synthwave" /> <br/>
 <img align="center" width="850" src="https://github-readme-streak-stats.herokuapp.com/?user=angelinag&theme=synthwave" />
 <img align="center" width="850" src="https://github-profile-trophy.vercel.app/?username=angelinag&theme=dracula&margin-w=0&column=7" />
 
